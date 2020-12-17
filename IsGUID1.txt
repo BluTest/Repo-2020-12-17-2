@@ -1,0 +1,3 @@
+This file contains GUID that matches regex
+
+GUID="3h2onu3k423un4ui2342"
